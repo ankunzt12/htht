@@ -26,7 +26,7 @@
 pkg update && pkg upgrade && pkg install python && pkg install git
 ```
 ```bash
-git clone https://github.com/NGUYENTRIEUPHUC/huyenthoaihaitac.git
+git clone https://github.com/ankunzt12/htht.git
 ```
 ```bash
 python main.py
